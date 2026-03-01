@@ -1,0 +1,6 @@
+cluster.name: "control-room-cluster"
+node.name: "control-room-node-1"
+network.host: 0.0.0.0
+http.port: 9200
+xpack.security.enabled: false
+indices.memory.index_buffer_size: 30%
