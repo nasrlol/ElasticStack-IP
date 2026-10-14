@@ -2,14 +2,14 @@
 
 ## Prerequisites
 - Docker
-- Java 17 <
+- Java 17+
 - Maven (optional)
 
 ## Start
 
 1. **Clone the repository:**
 	```bash
-	git clone https://www.github.com/nasrlol/ElaticStack-IP.git
+	git clone https://www.github.com/nasrlol/ElasticStack-IP.git
 	cd ElasticStack-IP
 	```
 
@@ -43,4 +43,4 @@
 
 ## NOTE
 > **Note:**
-> This project is intended for demonstration and showcase purposes only. This is a throw away repository!
+> This project is intended for demonstration and showcase purposes only. This is a throwaway repository!
